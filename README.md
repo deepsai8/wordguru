@@ -8,6 +8,6 @@ All possible words in english
   - https://opus.nlpl.eu/
   - https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
   - https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/English/Project_Gutenberg
-- Some python libraries
+- Some python gyan
   - https://github.com/svisser/crossword
-  - 
+  - https://www.solvermax.com/blog/crossword-milp-model-1
